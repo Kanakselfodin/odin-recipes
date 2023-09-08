@@ -1,0 +1,9 @@
+styles.css
+
+    
+.alert-text {color:white; background-color: blueviolet;}
+ul { border: 2px solid rebeccapurple; padding: .5em;}
+.block,
+li{border: 2px solid rgb(255, 0, 76); padding: .5em;}  
+ul{display: flow-root; list-style: none;}
+.block{display: block;}
